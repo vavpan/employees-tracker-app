@@ -33,6 +33,7 @@
 First, you need to run the two sql scripts which are included in the source code and run them into MySQL Workbench in order to create the databases for users and employees. Afterward your need to add your <u>username</u> and your <u>password</u> in the <u>application.properties</u> file on <u>src/main/resources</ul>. The lines that must be modified are as follows:
 
 app.datasource.username=
+<br>
 app.datasource.password=
 
 Once it's done you can run the app:
