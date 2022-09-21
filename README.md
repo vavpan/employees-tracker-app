@@ -40,3 +40,7 @@ Once it's done you can run the app:
 *Double click on <u>ThymeleafdemoApplication</u>
 *Once you are inside the class, right click -> Run As -> Java Application
 
+User: John ---> Password: test
+User: Mike ---> Password: test
+User Mary  ---> Password: test
+
