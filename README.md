@@ -42,5 +42,5 @@ Once it's done you can run the app:
 
 User: John ---> Password: test <br>
 User: Mike ---> Password: test <br>
-User Mary  ---> Password: test
+User: Mary  ---> Password: test
 
