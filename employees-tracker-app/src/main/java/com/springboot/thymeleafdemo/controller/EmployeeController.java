@@ -86,7 +86,7 @@ public class EmployeeController {
 	}
 	
 	@GetMapping("/search")
-	public String delete(@RequestParam("employeeName") String theName,
+	public String search(@RequestParam("employeeName") String theName,
 						 Model theModel) {
 		
 		// delete the employee
